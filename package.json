@@ -1,0 +1,12 @@
+{
+  "name": "job-queue",
+  "version": "1.0.0",
+  "description": "In-memory job queue with priorities, retries, dead-letter and concurrency control",
+  "main": "src/Queue.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
